@@ -1,5 +1,4 @@
-[11:55 am, 23/03/2026] Harineash🫂✨: High-precision line follower robot using Arduino Nano, TB6612FNG motor driver, and 5-IR sensor array for smooth and stable path tracking.
-[11:58 am, 23/03/2026] Harineash🫂✨: # 🤖 LineFollowerX
+ # 🤖 LineFollowerX
 
 A fast and reliable *line follower robot* built using Arduino Nano, 5-IR sensor array, and TB6612FNG motor driver for smooth and accurate path tracking.
 
